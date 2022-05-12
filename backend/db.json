@@ -1,0 +1,19 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Caneta BIC azul",
+            "price": 5.89
+        },
+        {
+            "id": 2,
+            "name": "Notebook MAC pro",
+            "price": 13000.90
+        },
+        {
+            "id": 3,
+            "name": "Sansung Galaxy s20",
+            "price": 5000.79
+        }
+  ]
+}
